@@ -1,4 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/VoDACode/JavaTCPChat/main/docs/img/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+[![Stand With Ukraine](https://raw.githubusercontent.com/VoDACode/JavaTCPChat/master/docs/img/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 # Description
 
